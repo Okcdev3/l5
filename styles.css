@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(128, 0, 128);
+}
+
+body { 
+    background: rgb(113, 113, 206);
+}
+
+.Heading {
+    color: purple;
+}
+
+#heading1 {
+    color: red;
+}
